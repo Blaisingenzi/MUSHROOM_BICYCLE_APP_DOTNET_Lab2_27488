@@ -6,8 +6,8 @@ namespace BicycleMushroomApp
     public partial class LoginForm : Form
     {
         // Change these two values to set your own username and password
-        private const string ValidUsername = "admin";
-        private const string ValidPassword = "1234";
+        private const string ValidUsername = "ngenzi";
+        private const string ValidPassword = "123";
 
         public LoginForm()
         {
