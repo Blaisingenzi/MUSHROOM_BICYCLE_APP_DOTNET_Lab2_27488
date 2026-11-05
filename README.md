@@ -15,8 +15,8 @@ A Windows Forms application built with .NET 10. The application provides a login
 
 The default login credentials are:
 
-- Username: `admin`
-- Password: `1234`
+- Username: `ngenzi`
+- Password: `123`
 
 To change them, edit the `ValidUsername` and `ValidPassword` constants in `LoginForm.cs`.
 
